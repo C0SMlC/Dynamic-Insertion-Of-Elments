@@ -5,7 +5,7 @@ The insertAdjacentHTML() method inserts HTML code into a specified position.
 
 Legal positions:
 
-  ## Value   	  ## Description
+  ## Value Description
 1. afterbegin	  After the beginning of the element (first child)
 2. afterend	    After the element
 3. beforebegin	Before the element
